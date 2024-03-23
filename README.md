@@ -19,4 +19,4 @@ YouTube:
 https://youtu.be/TXTYQfnAJ2Y?si=KDL9H2VWwwEoereG
 
 download:
-https://drive.google.com/file/d/1bsgG0lI6Xvc4V4iDy6kZzzV2oY7oJ3Cs/view?usp=sharing
+moved to releases secton on the right.
